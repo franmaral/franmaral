@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @franmaral.
-- 👀 I’m interested in RPA and Tech Writing.
-- 🌱 Currently learning testing automation.
-- 💞️ I want to collaborate on Automation, RPA, Testing, Technical Writing, Editing, Proofreading, Translating and Coding.
+- 👀 I’m a Technical Writer who became a Python developer and Data Scientist.
+- 🌱 Always learning.
+- 💞️ I am looking to collaborate on the development of all types of software tools and data analysis tasks.
 - 📫 How to reach me [franmaral](https://github.com/franmaral/).
 - 🤝 Let's work together...
       -> [Landing Page](https://franmaral.github.io/)
-      -> [Portfolio](https://franmaral.github.io/portfolio/)
